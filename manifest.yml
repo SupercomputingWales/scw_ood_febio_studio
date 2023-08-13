@@ -1,0 +1,9 @@
+---
+name: Febio-Studio
+category: Interactive Apps
+subcategory: Medical
+role: batch_connect
+description: |
+  This app will launch Febio-Studio on one or more compute nodes. You
+  will have full access to the resources these nodes provide. This is analogous
+  to an interactive batch job.
